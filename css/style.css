@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: sans-serif;
+}
+html,body{
+    height:100%
+}
+
+body{
+    background-color:rgba(182, 182, 70, 0.705);
+}
+
+main{
+   text-align: center;
+   padding: 20px 0;
+}
+
+section.content-project{
+    border-radius:15px;
+    margin: 30px auto;
+    width:100%;
+    max-width: 600px;
+    padding:20px;
+    background-color: rgb(230, 203, 203);
+    box-shadow: 5px 5px 3px rgba(34, 34, 34, 0.788);
+
+}
+
+div.foto{
+    margin-top: 30px;
+}
+footer, h1{
+    color: #5177b0;
+}
